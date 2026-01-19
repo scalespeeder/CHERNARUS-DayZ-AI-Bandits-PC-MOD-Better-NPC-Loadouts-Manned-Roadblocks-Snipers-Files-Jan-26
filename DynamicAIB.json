@@ -1,0 +1,1388 @@
+{
+    "version": 1,
+    "showtriggers": 0,
+    "crashsites": 1,
+    "GroupLocations": [
+        {
+            "name": "Marianka Roadblock",
+            "faction": "Bandits",
+            "waypoints": [
+                "2664.947509765625  128.82585144042969 3015.818603515625",
+                "2666.947509765625  126.82585144042969 3015.818603515625",
+                "2664.947509765625  126.82585144042969 3017.818603515625"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple",
+                    "SaltySticks",
+                    "PeachesCan",
+                    "Pear"
+                ]
+            }
+        },
+        {
+            "name": "Drozino-Kozlovka Roadblock",
+            "faction": "Bandits",
+            "waypoints": [
+                "3844.716064453125 236.93653869628907 4786.36376953125",
+                "3846.716064453125 234.93653869628907 4786.36376953125",
+                "3844.716064453125 234.93653869628907 4788.36376953125"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple",
+                    "SaltySticks",
+                    "PeachesCan",
+                    "Pear"
+                ]
+            }
+        },
+        {
+            "name": "North of Elektro Roadblock",
+            "faction": "Bandits",
+            "waypoints": [
+                "10249.591796875 28.494564056396486 3188.3017578125",
+                "10251.591796875 26.494564056396486 3188.3017578125",
+                "10249.591796875 26.494564056396486 3190.3017578125"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple",
+                    "SaltySticks",
+                    "PeachesCan",
+                    "Pear"
+                ]
+            }
+        },
+        {
+            "name": "East Of Gorka Roadblock",
+            "faction": "Bandits",
+            "waypoints": [
+                "10076.37890625 257.09033203125 8863.6650390625",
+                "10074.37890625 259.09033203125 8863.6650390625",
+                "10074.37890625 257.09033203125 8865.6650390625"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple",
+                    "SaltySticks",
+                    "PeachesCan",
+                    "Pear"
+                ]
+            }
+        },
+        {
+            "name": "East of Ratnoye Roadblock",
+            "faction": "Bandits",
+            "waypoints": [
+                "6636.8271484375 139.1641845703125 12715.4384765625",
+                "6633.8271484375 142.1641845703125 12715.4384765625",
+                "6633.8271484375 139.1641845703125 12718.4384765625"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple",
+                    "SaltySticks",
+                    "PeachesCan",
+                    "Pear"
+                ]
+            }
+        },
+        {
+            "name": "South Of Nadezhda Roadblock",
+            "faction": "Bandits",
+            "waypoints": [
+                "7097.17724609375 255.92236328125 6480.31787109375",
+                "7095.17724609375 257.92236328125 6480.31787109375",
+                "7095.17724609375 255.92236328125 6482.31787109375"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple",
+                    "SaltySticks",
+                    "PeachesCan",
+                    "Pear"
+                ]
+            }
+        },
+        {
+            "name": "East Of MB Tisy Roadblock",
+            "faction": "Bandits",
+            "waypoints": [
+                "2359.59228515625  367.9375915527344 14129.271484375",
+                "2356.59228515625  370.9375915527344 14129.271484375",
+                "2356.59228515625  367.9375915527344 14131.271484375"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple",
+                    "SaltySticks",
+                    "PeachesCan",
+                    "Pear"
+                ]
+            }
+        },
+        {
+            "name": "NWAF_Industrial",
+            "faction": "Bandits",
+            "waypoints": [
+                "4305.451172 339.049591 10874.753906",
+                "4349.890137 339.140198 10837.599609",
+                "4406.502441 338.694000 10843.835938",
+                "4465.483398 338.886169 10808.808594",
+                "4524.242188 338.920044 10796.116211",
+                "4529.307129 338.317352 10905.759766",
+                "4588.950195 338.375183 10913.369141",
+                "4586.702637 338.690582 10796.772461",
+                "4607.525391 338.816071 10758.582031",
+                "4653.128906 338.889221 10742.685547",
+                "4703.384766 338.990051 10656.584961",
+                "4767.392578 338.871155 10657.757813",
+                "4808.053223 339.291260 10687.900391",
+                "4844.601563 335.811005 10665.096680",
+                "4880.948242 334.744507 10599.500977",
+                "4904.920410 335.491882 10511.601563",
+                "4934.775391 334.009979 10443.820313",
+                "4925.111816 333.980896 10434.623047",
+                "4798.080566 339.220093 10514.909180",
+                "4707.344238 339.112579 10601.812500",
+                "4686.347656 339.052887 10524.663086",
+                "4582.290039 338.999908 10466.926758",
+                "4531.479492 339.000031 10556.199219",
+                "4499.056641 338.999969 10541.864258"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf",
+                "BanditAI_Denis",
+                "BanditAI_Mirek"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_M4A1"
+            ],
+            "npcproperties": {
+                "headgear": [],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Brown",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "ACOGOptic",
+                    "Mag_STANAGCoupled_30Rnd",
+                    "AmmoBox_556x45_20Rnd",
+                    "AmmoBox_556x45Tracer_20Rnd"
+                ]
+            }
+        },
+        {
+            "name": "NWAF_Gate",
+            "faction": "Bandits",
+            "waypoints": [
+                "4464.186035 338.931549 9520.162109",
+                "4458.933105 339.120453 9481.244141",
+                "4516.335449 339.062073 9405.211914",
+                "4544.772949 339.121460 9426.897461",
+                "4569.465332 339.009949 9485.069336",
+                "4628.173828 338.999908 9521.168945",
+                "4636.593750 339.000000 9548.282227",
+                "4571.219727 339.000000 9660.600586",
+                "4526.399414 339.061707 9741.989258",
+                "4514.037109 339.074127 9781.719727",
+                "4443.940430 339.040009 9763.751953",
+                "4442.051270 339.039948 9742.824219",
+                "4433.756836 339.040039 9735.499023",
+                "4434.712402 339.040009 9699.764648",
+                "4459.530762 339.000031 9650.942383",
+                "4487.938965 338.999969 9608.134766"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf",
+                "BanditAI_Denis",
+                "BanditAI_Mirek"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple"
+                ]
+            }
+        },
+        {
+            "name": "TISY_Back",
+            "faction": "Guards",
+            "waypoints": [
+                "1368.448730 465.866272 14130.262695",
+                "1497.787598 456.421021 14137.169922",
+                "1553.980103 452.811432 14109.466797",
+                "1572.863159 452.605255 14096.363281",
+                "1603.383057 451.729980 14147.403320",
+                "1635.306641 451.730011 14215.474609",
+                "1654.075073 451.730011 14254.825195",
+                "1677.178955 451.729980 14274.833984",
+                "1696.211670 451.717773 14218.984375",
+                "1710.496704 451.729980 14165.633789",
+                "1692.897461 451.730011 14159.324219",
+                "1674.980591 451.730042 14152.886719",
+                "1691.935059 451.717438 14063.657227",
+                "1706.302368 448.411285 13970.997070",
+                "1693.531616 448.474518 13957.750000",
+                "1613.835815 451.829529 13942.002930",
+                "1546.643921 453.752533 13952.615234",
+                "1422.692139 459.407593 14007.152344",
+                "1404.661743 461.894806 14037.893555",
+                "1334.163208 463.911499 14062.793945"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf",
+                "BanditAI_Denis",
+                "BanditAI_Mirek"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple"
+                ]
+            }
+        },
+        {
+            "name": "TISY_Tents",
+            "faction": "Bandits",
+            "waypoints": [
+                "6702.334473 15.095179 11165.135742",
+                "6726.584473 15.109262 11166.520508",
+                "6739.779785 14.847443 11161.330078",
+                "6782.062988 14.973543 11237.200195",
+                "6805.945313 14.873652 11227.282227",
+                "6801.942871 14.869985 11205.263672",
+                "6829.053711 15.052616 11190.579102",
+                "6835.183105 15.231531 11153.285156",
+                "6825.701660 15.230009 11110.020508",
+                "6833.990234 15.257681 11085.689453",
+                "6824.276367 15.219999 11069.803711",
+                "6777.548340 15.149963 11018.327148",
+                "6728.288086 15.180015 11001.947266",
+                "6698.598633 15.122359 11017.275391",
+                "6649.052246 15.137195 10997.764648",
+                "6623.399902 15.095386 11011.606445"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf",
+                "BanditAI_Denis",
+                "BanditAI_Mirek"
+            ],
+            "accuracy": 75.0,
+            "dog": 1,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [],
+                "masks": [
+                    "AirborneMask"
+                ],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple"
+                ]
+            }
+        },
+        {
+            "name": "Petrovka_West",
+            "faction": "Bandits",
+            "waypoints": [
+                "3267.220947 200.706055 12921.532227",
+                "3335.748535 198.678146 12982.898438",
+                "3288.113525 200.811295 13107.773438",
+                "3360.582520 199.128662 13124.918945",
+                "3384.582764 194.470322 13070.244141",
+                "3409.105713 193.392380 13055.347656",
+                "3458.367432 192.877274 13077.903320",
+                "3465.691406 194.386322 13108.679688",
+                "3520.882813 194.943726 13144.548828",
+                "3535.951904 192.772293 13104.896484",
+                "3556.761230 191.863190 13058.880859",
+                "3515.160645 192.058853 13034.711914",
+                "3448.099609 193.032883 12994.540039",
+                "3420.509277 194.497009 12958.868164",
+                "3390.644775 196.034058 12870.969727",
+                "3332.022461 197.756775 12820.143555"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf",
+                "BanditAI_Denis",
+                "BanditAI_Mirek"
+            ],
+            "accuracy": 90.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_M4A1"
+            ],
+            "npcproperties": {
+                "headgear": [],
+                "masks": [
+                    "BalaclavaMask_BDU"
+                ],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_AKM_30Rnd",
+                    "Apple"
+                ]
+            }
+        },
+        {
+            "name": "Severograd_West",
+            "faction": "Guards",
+            "waypoints": [
+                "7736.342773 123.550629 12798.593750",
+                "7770.109375 120.437614 12778.323242",
+                "7854.600586 120.757683 12759.218750",
+                "7869.313965 117.739265 12734.360352",
+                "7916.801758 117.156860 12756.326172",
+                "7954.639160 116.279396 12759.601563",
+                "7957.713867 116.178268 12755.469727",
+                "7958.246094 114.996498 12730.083984",
+                "7964.112793 115.063316 12715.775391",
+                "7907.583496 117.421455 12689.247070",
+                "7852.151855 117.676025 12671.638672",
+                "7797.048828 117.530022 12664.838867",
+                "7714.885742 118.308052 12668.499023",
+                "7679.525391 118.876991 12656.948242",
+                "7674.566895 118.147026 12713.992188",
+                "7663.902344 119.133095 12751.126953"
+            ],
+            "npcclasses": [
+                "BanditAI_Keiko",
+                "BanditAI_Linda",
+                "BanditAI_Rolf",
+                "BanditAI_Denis",
+                "BanditAI_Mirek"
+            ],
+            "accuracy": 80.0,
+            "dog": 0,
+            "weaponpool": [
+                "Predefined_AKM"
+            ],
+            "npcproperties": {
+                "headgear": [],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag"
+                ],
+                "bodywear": [
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Rag",
+                    "Apple"
+                ]
+            }
+        }
+    ],
+    "SniperLocations": [
+        {
+            "name": "Sniper-Balotoa-AF",
+            "positions": [
+                "5237.821777 9.568775 2157.804199",
+                "4887.835449 9.560701 2578.265625",
+                "4917.622559 9.539299 2599.980469"
+            ],
+            "npcclass": "BanditAI_Keiko",
+            "accuracy": 75.0,
+            "fixedpos": 0,
+            "triggerpos": "5237.821777 9.568775 2157.804199",
+            "weaponpool": [
+                "Predefined_SVD"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_SVD_10Rnd",
+                    "BandageDressing",
+                    "GhillieAtt_Mossy",
+                    "PSO11Optic"
+                ]
+            }
+        },
+        {
+            "name": "Sniper-Berezino",
+            "positions": [
+                "12933.481445 6.010037 9958.216797",
+                "13040.102539 5.477971 9882.681641",
+                "12924.267578 5.543454 9856.061523"
+            ],
+            "npcclass": "BanditAI_Keiko",
+            "accuracy": 75.0,
+            "fixedpos": 1,
+            "triggerpos": "12976.048828 5.988794 9886.419922",
+            "weaponpool": [
+                "Predefined_SVD"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_SVD_10Rnd",
+                    "BandageDressing",
+                    "GhillieAtt_Mossy",
+                    "PSO11Optic"
+                ]
+            }
+        },
+        {
+            "name": "Sniper-Green-Mountain",
+            "positions": [
+                "3757.946533 404.254364 5962.933594",
+                "3721.525879 400.019501 6034.952637",
+                "3702.528320 401.374634 6028.257324"
+            ],
+            "npcclass": "BanditAI_Keiko",
+            "accuracy": 75.0,
+            "fixedpos": 1,
+            "triggerpos": "3729.1630859375 401.7095031738281 6010.951171875",
+            "weaponpool": [
+                "Predefined_SVD"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_SVD_10Rnd",
+                    "BandageDressing",
+                    "GhillieAtt_Mossy",
+                    "PSO11Optic"
+                ]
+            }
+        },
+        {
+            "name": "Sniper-Svet-Novo-Mili-Tents",
+            "positions": [
+                "13662.266602 16.950830 13792.249023",
+                "13632.804688 8.986763 13662.287109"
+            ],
+            "npcclass": "BanditAI_Keiko",
+            "accuracy": 75.0,
+            "fixedpos": 1,
+            "triggerpos": "13621.3076171875 5.758115768432617 13746.115234375",
+            "weaponpool": [
+                "Predefined_SVD"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_SVD_10Rnd",
+                    "BandageDressing",
+                    "GhillieAtt_Mossy",
+                    "PSO11Optic"
+                ]
+            }
+        },
+        {
+            "name": "Sniper-Dambog",
+            "positions": [
+                "1148.192139 152.724426 6277.292969",
+                "1322.349121 156.514893 6223.773438",
+                "1296.872070 159.348190 6314.471680"
+            ],
+            "npcclass": "BanditAI_Keiko",
+            "accuracy": 75.0,
+            "fixedpos": 1,
+            "triggerpos": "1240.066895 149.893967 6289.423340",
+            "weaponpool": [
+                "Predefined_SVD"
+            ],
+            "npcproperties": {
+                "headgear": [
+                    "DarkMotoHelmet_Black",
+                    "DarkMotoHelmet_Blue",
+                    "DarkMotoHelmet_Green",
+                    "DarkMotoHelmet_Grey",
+                    "DarkMotoHelmet_Lime",
+                    "DarkMotoHelmet_Red",
+                    "DarkMotoHelmet_White",
+                    "DarkMotoHelmet_Yellow",
+                    "DirtBikeHelmet_Black",
+                    "DirtBikeHelmet_Blue",
+                    "DirtBikeHelmet_Chernarus",
+                    "DirtBikeHelmet_Green",
+                    "DirtBikeHelmet_Khaki"
+                ],
+                "masks": [],
+                "vests": [],
+                "backpacks": [
+                    "HuntingBag",
+                    "TaloonBag_Blue",
+                    "TaloonBag_Green",
+                    "TaloonBag_Orange",
+                    "TaloonBag_Violet"
+                ],
+                "bodywear": [
+                    "BomberJacket_Black",
+                    "BomberJacket_Blue",
+                    "BomberJacket_Brown",
+                    "LeatherJacket_Black",
+                    "LeatherJacket_Brown",
+                    "QuiltedJacket_Green",
+                    "QuiltedJacket_Red",
+                    "TrackSuitJacket_Black",
+                    "TrackSuitJacket_Blue",
+                    "TrackSuitJacket_Red",
+                    "HuntingJacket_Winter",
+                    "HuntingJacket_Summer",
+                    "HuntingJacket_Spring",
+                    "HuntingJacket_Brown"
+                ],
+                "pants": [
+                    "HunterPants_Winter",
+                    "PolicePants",
+                    "PolicePantsOrel",
+                    "PrisonUniformPants",
+                    "JumpsuitPants_Blue",
+                    "Jeans_Black",
+                    "Jeans_Blue",
+                    "Jeans_BlueDark",
+                    "HunterPants_Summer",
+                    "HunterPants_Spring",
+                    "HunterPants_Brown"
+                ],
+                "shoes": [
+                    "CombatBoots_Black"
+                ],
+                "loot": [
+                    "Mag_SVD_10Rnd",
+                    "BandageDressing",
+                    "GhillieAtt_Mossy",
+                    "PSO11Optic"
+                ]
+            }
+        }
+    ],
+    "PredefinedWeapons": [
+        {
+            "name": "Predefined_AKM",
+            "weapon": "AKM",
+            "attachments": [
+                "Mag_AKM_30Rnd",
+                "AK_WoodHndgrd",
+                "AK_WoodBttstck"
+            ]
+        },
+        {
+            "name": "Predefined_M4A1",
+            "weapon": "M4A1",
+            "attachments": [
+                "Mag_STANAGCoupled_30Rnd",
+                "M4_MPHndgrd",
+                "M4_CQBBttstck",
+                "ACOGOptic"
+            ]
+        },
+        {
+            "name": "Predefined_SVD",
+            "weapon": "SVD",
+            "attachments": [
+                "Mag_SVD_10Rnd",
+                "GhillieAtt_Mossy",
+                "PSO11Optic"
+            ]
+        }
+    ]
+}
