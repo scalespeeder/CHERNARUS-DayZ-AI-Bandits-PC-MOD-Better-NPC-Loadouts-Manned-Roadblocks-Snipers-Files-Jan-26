@@ -110,9 +110,9 @@ On PC, create a custom folder inside your mission file, (eg mpmissions\dayzOffli
 Upload the road-blocks-chernarus.json file to the custom folder.
 
 (These are the "props" that bring each AI roadblock psition to life. Of course, you don't really have to use them, but then the
-AI squads will just be standing in the middle of an epmpty road...)
+AI squads will just be standing in the middle of an empty road...)
 
-Next in the cfggameplay.json file look for the "objectSpawnersArr" line. It's normally OK to edit this withing your Severs Broswer editor, or within your FTP program. Try right-clicking on the file name
+Next in the cfggameplay.json file look for the "objectSpawnersArr" line. It's normally OK to edit this within your Severs Broswer editor, or within your FTP program. Try right-clicking on the file name
 and seeing if there's an "edit function". This will normally open the file in a text editor, and when you save, your FTP program will ask you if you want to re-upload the edited file.
 
 Edit it to look like this:
@@ -141,3 +141,4 @@ Upload my DynamicAIB.json file to replace the exising one, inside the \DayZServe
 Restart your server and you should be good to go!
 
 Thanks, Rob.
+
